@@ -25,6 +25,6 @@ I'm mainly using the following sources and tools:
 - ChatGPT to explain me some concepts on spanish so I can write them here.
 - [Obisdian](https://obsidian.md/) | For write this
 
-I'll create a list of all my sources when I goes on this journey.#
+I'll create a list of all my sources when I goes on this journey.
 
 #rust
