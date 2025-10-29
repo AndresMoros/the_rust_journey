@@ -1,0 +1,1 @@
+C:\Users\lenovo\Documents\Obsidian\ Notes\software_develpment\Rust\Source\functions_lecture\target\debug\functions_lecture.exe: C:\Users\lenovo\Documents\Obsidian\ Notes\software_develpment\Rust\Source\functions_lecture\src\main.rs

@@ -1,0 +1,1 @@
+C:\Users\lenovo\Documents\Obsidian\ Notes\software_develpment\Rust\Source\loops_lecture\target\debug\loops_lecture.exe: C:\Users\lenovo\Documents\Obsidian\ Notes\software_develpment\Rust\Source\loops_lecture\src\main.rs
