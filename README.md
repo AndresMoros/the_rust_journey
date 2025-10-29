@@ -14,7 +14,7 @@ Honestly I just saw a lot of YouTube videos about Rust recently and how it does 
 ### Why a backend language?
 After see some JavaScript, I made a course where I learned PHP, and I know PHP might not be the BEST backend language, but I actually loved it (I'm currently writing a PHP docs repo actually).
 
-I find out that maybe the fronted is not for me (mainly 'cuz I'm not  a _creative_ or _visual_ person), and I love when a text pop-outs when you type something before, and PHP taught me that, and maybe I'm not the top 5 best PHP's programmer, but I wanted to try something more, and seeing the recent increase o mentions of Rust and the act I found by the _Let's Get Rusty_ page, I jumped into this.
+I find out that maybe the fronted is not for me (mainly 'cuz I'm not  a _creative_ or _visual_ person), and I love when a text pop-outs when you type something before, and PHP taught me that, and maybe I'm not the top 5 best PHP's programmer, but I wanted to try something more, and seeing the recent increase of mentions of Rust and the fact I found by the _Let's Get Rusty_ page, I jumped into this.
 
 ### What tools and docs am I using?
 I'm mainly using the following sources and tools:
@@ -22,7 +22,7 @@ I'm mainly using the following sources and tools:
 - [Let's Get Rusty](https://learn.letsgetrusty.com/beginner/setup.html) | YouTube Rust's Free Course
 - [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html) | The Rust Book basically
 - [Rust By Example](https://doc.rust-lang.org/rust-by-example/) | Like a library of exercises
-- ChatGPT to explain me some concepts on spanish so I can write them here.
+- ChatGPT and DeepSeek to explain me some concepts on spanish so I can write them here.
 - [Obisdian](https://obsidian.md/) | For write this
 
 I'll create a list of all my sources when I goes on this journey.
