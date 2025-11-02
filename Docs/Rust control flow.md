@@ -30,6 +30,27 @@ fn main() {
 }
 ```
 
+## Using `if` statements for variable's initialization
+We can use the `if` statements as a method to assign values on variables depending on the value of another variable/expression. Example:
+
+```rust
+
+fn user_life_stage (age: i32) -> &str {
+
+    let stage = if age >= 18 {
+        "Adult"
+    } else if age >= 14 {
+        "Teenager"
+    } else {
+        "Childish"
+    };
+
+    // In this case we use the semicolon at the end of the if because we are declaring the value of the "stage" value
+    stage
+}
+
+```
+
 # Repetition with loops
 Loops is the way we can execute a block of code more then once without declaring it several times. Rust will execute any instruction that is inside the loop body and then go to the beginning, until we indicates that must to stop.
 
