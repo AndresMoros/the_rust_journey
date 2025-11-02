@@ -19,11 +19,12 @@ I find out that maybe the fronted is not for me (mainly 'cuz I'm not  a _creativ
 ### What tools and docs am I using?
 I'm mainly using the following sources and tools:
 
-- [Let's Get Rusty](https://learn.letsgetrusty.com/beginner/setup.html) | YouTube Rust's Free Course
+- [Let's Get Rusty](https://learn.letsgetrusty.com/beginner/setup.html) - YouTube Rust's Free Course
 - [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html) | The Rust Book basically
-- [Rust By Example](https://doc.rust-lang.org/rust-by-example/) | Like a library of exercises
+- [Rust By Example](https://doc.rust-lang.org/rust-by-example/) - Like a library of exercises
 - ChatGPT and DeepSeek to explain me some concepts on spanish so I can write them here.
-- [Obisdian](https://obsidian.md/) | For write this
+- [Rustlings](https://rustlings.rust-lang.org/) - Interactive code problems with Rust
+- [Obisdian](https://obsidian.md/) - For write this
 
 I'll create a list of all my sources when I goes on this journey.
 
