@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "61deb9971474e96e",
+        "id": "d055e7a209a989aa",
         "type": "tabs",
         "children": [
           {
-            "id": "af5dd7b7b7dc7820",
+            "id": "ce1bedae33cc3e86",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Docs/Rust control flow.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Rust control flow"
             }
           }
         ]
@@ -178,8 +178,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af5dd7b7b7dc7820",
+  "active": "ce1bedae33cc3e86",
   "lastOpenFiles": [
+    "Docs/Rust methods.md",
+    "Docs/Rust variables.md",
+    "Docs/Rust types.md",
+    "Docs/Rust ownership.md",
+    "Docs/Rust functions.md",
+    "Docs/Rust control flow.md",
+    "Rust 101.md",
     "the_rust_journey/README.md",
     "the_rust_journey/Rust 101.md",
     "Sin título.base",
