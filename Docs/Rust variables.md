@@ -18,7 +18,6 @@ Now we can change the value of `age` later.
 let mut age: u32 = 22;
 age = 27;
 ```
-
 # Constants
 The constants in Rust are inmutables, and their values can't change during the program. Other difference between constants and variables are how you can declare them: using the keyword `const` and you should specify the type. 
 

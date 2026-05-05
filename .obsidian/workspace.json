@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "18e3393156142e8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cae259f309a8b8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a1c0b579c1d16bc",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: data.json  (Working Tree)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4574df5fc9396727",
+    "type": "split",
+    "children": [
+      {
+        "id": "5787b61e972735fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba82ddad3b626372",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "d2e67704618524b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "441f305064785a52",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5194b2f86fb7de63",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc9f09d3a577bfdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41efa254219280ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "a2bb0c6361ee5a94",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "eb5557adadc7ccee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "241327f4e9c17edc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "the_rust_journey/Docs/Rust variables.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Rust variables"
+            }
+          },
+          {
+            "id": "7249ff928781e657",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9a1c0b579c1d16bc",
+  "lastOpenFiles": [
+    "the_rust_journey/README.md",
+    "the_rust_journey/Rust 101.md",
+    "Sin título.base",
+    "the_rust_journey/Docs/Rust functions.md",
+    "the_rust_journey/Docs/Rust control flow.md",
+    "the_rust_journey/Docs/Rust methods.md",
+    "the_rust_journey/Docs/Rust variables.md",
+    "the_rust_journey/Docs/Rust types.md",
+    "the_rust_journey/Docs/Rust ownership.md",
+    "Bienvenido.md"
+  ]
+}
