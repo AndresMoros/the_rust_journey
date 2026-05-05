@@ -1,5 +1,4 @@
  Before continue, there is more examples about the Rust's functions in the `main.rs` file on [functions_lecture](../Source/functions_lecture/src/main.rs).
-
 # Functions syntaxis
 The syntaxis of Rust's functions is actually pretty similar to other programming languages. The have the `fn` keyword, followed by parenthesis and the body of the function delimited by curly brackets (`{}`).
 
